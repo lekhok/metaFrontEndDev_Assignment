@@ -1,4 +1,3 @@
-# metaFrontEndDev_Assignment
 
 
 <h1> Meta Front-End Developer Course Assignment </h1> <br> <br>
